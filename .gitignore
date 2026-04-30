@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except these files
+!model-analisis-sentimen.ipynb
+!sentiment_model.pkl
+!tfidf_vectorizer.pkl
+!.gitignore
